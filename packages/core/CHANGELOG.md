@@ -1,5 +1,11 @@
 # ai
 
+## 3.1.6
+
+### Patch Changes
+
+- 8439884: ai/rsc: make RSC streamable utils chainable
+
 ## 3.1.5
 
 ### Patch Changes
